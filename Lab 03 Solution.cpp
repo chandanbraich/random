@@ -1,5 +1,6 @@
 // Solution for Lab 03
 #include <iostream>
+#include <androidstream>
 using namespace std;
 
 int main()
